@@ -1,0 +1,39 @@
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe.config
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.pdb
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.pdb
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.LoginPage.resources
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.MainPage.resources
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RegistryPage.resources
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RoomPage.resources
+C:\Users\MSI\source\repos\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.GuestPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.GuestPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.LoginPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.MainPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RegistryPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RoomPage.resources
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.pdb
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe.config
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\Desktop\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.pdb
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe.config
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\bin\Debug\OtelOtomasyonSistemi.pdb
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.GuestPage.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.LoginPage.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.MainPage.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RegistryPage.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.Properties.Resources.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.RoomPage.resources
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.exe
+C:\Users\MSI\Desktop\Otel Otomasyon Sistemi\Kodlar\OtelOtomasyonSistemi\OtelOtomasyonSistemi\obj\Debug\OtelOtomasyonSistemi.pdb
